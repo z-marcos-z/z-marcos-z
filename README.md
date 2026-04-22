@@ -2,7 +2,7 @@
 
 ![Starfield](./stars.svg)
 
-### 👋 Olá, eu sou o marcos!
+### 👋 Olá, eu sou o Marcos!
 
 <!-- Você pode editar as linhas abaixo com suas infos -->
 
