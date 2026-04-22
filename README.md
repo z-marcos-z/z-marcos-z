@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**z-marcos-z/z-marcos-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Starfield](./stars.svg)
 
-Here are some ideas to get you started:
+### 👋 Olá, eu sou o z-marcos-z!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Você pode editar as linhas abaixo com suas infos -->
+
+🚀 Desenvolvedor apaixonado por criar experiências únicas  
+🌌 Explorando o universo do código, uma commit de cada vez  
+🐱 Cat lover & night coder  
+
+---
+
+### 🛠️ Tecnologias
+
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📌 Projeto em destaque
+
+[![habbo-detectives](https://github-readme-stats.vercel.app/api/pin/?username=z-marcos-z&repo=habbo-detectives&theme=midnight-purple&hide_border=true&bg_color=05050f)](https://github.com/z-marcos-z/habbo-detectives)
+
+---
+
+<sub>✨ feito com código & café ✨</sub>
+
+</div>
