@@ -2,13 +2,11 @@
 
 ![Starfield](./stars.svg)
 
-### 👋 Olá, eu sou o z-marcos-z!
+### 👋 Olá, eu sou o marcos!
 
 <!-- Você pode editar as linhas abaixo com suas infos -->
 
-🚀 Desenvolvedor apaixonado por criar experiências únicas  
-🌌 Explorando o universo do código, uma commit de cada vez  
-🐱 Cat lover & night coder  
+🌌 Explorando o universo do código, uma commit de cada vez...  
 
 ---
 
@@ -26,6 +24,6 @@
 
 ---
 
-<sub>✨ feito com código & café ✨</sub>
+<sub>✨ 🐱 ✨</sub>
 
 </div>
