@@ -24,6 +24,7 @@
 ### 📌 Projeto em destaque
 
 [![habbo-detectives](https://github-readme-stats.vercel.app/api/pin/?username=z-marcos-z&repo=habbo-detectives&theme=midnight-purple&hide_border=true&bg_color=05050f)](https://github.com/z-marcos-z/habbo-detectives)
+[![TeleconnectIA](https://github-readme-stats.vercel.app/api/pin/?username=z-marcos-z&repo=TeleconnectIA&theme=midnight-purple&hide_border=true&bg_color=05050f)](https://github.com/z-marcos-z/habbo-detectives)
 
 ---
 
